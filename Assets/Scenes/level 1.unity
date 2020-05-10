@@ -1246,5 +1246,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy
       objectReference: {fileID: 0}
+    - target: {fileID: 8584714725981025811, guid: b392733d83db443f38f7b496283e8d96,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.32
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b392733d83db443f38f7b496283e8d96, type: 3}
